@@ -8,4 +8,8 @@
 .DS_Store
 .Rhistory
 
+# glove
+*d.txt
+*.word2vec
+
 testenv/
